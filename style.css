@@ -1,1 +1,20 @@
+h1{
+    text-align: center;
+    font-size: 25px;
+    color: #dbe0d0;
 
+}
+body {
+  background-color: #e5ff00;
+}
+.carro { 
+     width: 20%;
+    height: 50;
+}
+.ini {
+ background-image: url("row_1434.jpg");
+}
+.button{
+display: inline-block;
+padding: 10px 20px;
+}
