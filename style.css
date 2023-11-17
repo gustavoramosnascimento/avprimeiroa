@@ -16,8 +16,9 @@ p{
      width: 20%;
     height: 50;
 }
-.ini {
- background-image: url("row_1434.jpg");
+.cabecalho {
+ border-style: groove;
+ border-color: aquamarine;
 }
 .button{
 display: inline-block;
